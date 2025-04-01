@@ -1,7 +1,10 @@
-👋 Hi, I’m Vigneswar R!
-🔹 Interests: Java | C | Frontend | SQL | Problem Solving
-🔹 Education: Biomedical Engineering @ Bannari Amman Institute of Technology
-🔹 Let’s Connect: 📩 vigneswar38@gmail.com
+👋 Hi, I’m Vigneswar R!  
+
+🔹 **Interests:**  Java | C | Frontend | SQL | Problem Solving  
+
+🔹 **Education:**  Biomedical Engineering @ Bannari Amman Institute of Technology  
+
+🔹 **Let’s Connect:**  📩 vigneswar38@gmail.com  
 
 <!---
 VIGNESWAR-R/VIGNESWAR-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
