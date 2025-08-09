@@ -2,7 +2,7 @@
 
 🔹 **Interests:**  Java | C | Frontend | SQL | Problem Solving  
 
-🔹 **Education:**  Biomedical Engineering @ Bannari Amman Institute of Technology  
+🔹 **Education:**  @ Bannari Amman Institute of Technology  
 
 🔹 **Let’s Connect:**  📩 vigneswar38@gmail.com  
 
